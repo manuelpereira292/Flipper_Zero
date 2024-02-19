@@ -11,6 +11,7 @@ from fbt.util import path_as_posix
 
 DefaultEnvironment(tools=[])
 
+
 EnsurePythonVersion(3, 8)
 
 # Progress(["OwO\r", "owo\r", "uwu\r", "owo\r"], interval=15)
